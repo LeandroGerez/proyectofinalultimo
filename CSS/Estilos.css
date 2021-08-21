@@ -281,14 +281,14 @@ div.subtext {
   font-size: 25px; }
 
 div.texto {
-  background-color: #a86f3f;
+  background-color: #7e3dc9;
   color: white;
   text-align: center;
   font-size: 25px;
   font-family: 'Montserrat', sans-serif; }
 
 div.principal {
-  background-color: #a86f3f;
+  background-color: #3f60a8;
   color: white;
   text-align: center;
   font-size: 25px;
@@ -302,21 +302,21 @@ div.AD {
 
 .contenedor {
   font-family: 'Montserrat', sans-serif;
-  color: white; }
+  color: #43b4b8; }
 
 h3.contenedor_bio {
   font-family: 'Montserrat', sans-serif;
-  color: white;
+  color: #43b4b8;
   text-align: center; }
 
 p.contenedor_sub_bio {
   font-family: 'Montserrat', sans-serif;
-  color: white;
+  color: #43b4b8;
   text-align: center; }
 
 div.subtitulo {
   font-family: 'Montserrat', sans-serif;
-  color: white;
+  color: #43b4b8;
   text-align: center; }
 
 h1.nosotrostitulo {
