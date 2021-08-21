@@ -1,12 +1,12 @@
 .background {
     height: auto;
-   background-color: lightyellow;
+   background-color: rgb(212, 212, 108);
 }
 
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #9dbe0a;
 }
 
 
@@ -15,8 +15,8 @@ display: block;
 }
 
 .header {
-  background-color: rgba(201, 153, 99, 0.911);
-  box-shadow: 1px 1px 4px 0 rgba(201, 153, 99, 0.911);
+  background-color: rgba(101, 99, 201, 0.911);
+  box-shadow: 1px 1px 4px 0 rgba(115, 83, 136, 0.911);
   position: none
   ;
   width: 100%;
@@ -35,17 +35,17 @@ display: block;
 }
 .header li a {
   display: block;
- color: rgba(117, 95, 69, 0.911);
+ color: rgba(126, 87, 199, 0.911);
   padding: 20px 20px;
   text-decoration: none;
 }
  
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: rgba(172, 130, 83, 0.911);
+  background-color: rgba(65, 102, 221, 0.911);
 }
 .header .logo {
-  color: #fff;
+  color: rgb(247, 118, 67);
   display: block;
   float: left;
   font-size: 1.5em;

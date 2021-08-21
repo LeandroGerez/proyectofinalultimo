@@ -1,18 +1,18 @@
 .background {
   height: auto;
-  background-color: lightyellow; }
+  background-color: #d4d46c; }
 
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
-  background-color: #f4f4f4; }
+  background-color: #9dbe0a; }
 
 nav img {
   display: block; }
 
 .header {
-  background-color: rgba(82, 97, 235, 0.911);
-  box-shadow: 1px 1px 4px 0 rgba(135, 79, 209, 0.911);
+  background-color: rgba(101, 99, 201, 0.911);
+  box-shadow: 1px 1px 4px 0 rgba(115, 83, 136, 0.911);
   position: none;
   width: 100%;
   z-index: 3;
@@ -26,16 +26,16 @@ nav img {
 
 .header li a {
   display: block;
-  color: rgba(79, 77, 201, 0.911);
+  color: rgba(126, 87, 199, 0.911);
   padding: 20px 20px;
   text-decoration: none; }
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: rgba(151, 64, 223, 0.911); }
+  background-color: rgba(65, 102, 221, 0.911); }
 
 .header .logo {
-  color: rgb(238, 213, 168);
+  color: #f77643;
   display: block;
   float: left;
   font-size: 1.5em;
@@ -56,7 +56,7 @@ nav img {
   user-select: none; }
 
 .header .menu-icon .navicon {
-  background: rgb(235, 206, 144);
+  background: #fff;
   display: block;
   height: 2px;
   position: relative;
@@ -65,7 +65,7 @@ nav img {
 
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
-  background: rgb(243, 215, 155);
+  background: #fff;
   content: '';
   display: block;
   height: 100%;
